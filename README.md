@@ -1,0 +1,2 @@
+# Win11keyboardenhanceAHK
+使用AHK增强笔记本上键盘效率 例如利用capslock键加wasd定位光标
