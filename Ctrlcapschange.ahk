@@ -1,0 +1,2 @@
+Capslock::LCtrl
+LCtrl::Capslock
